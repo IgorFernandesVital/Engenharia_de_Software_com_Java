@@ -1,4 +1,4 @@
-# 🚀 Universal Backend: Engineering Journey
+# 🚀 Engenharia de Software com Java
 
 Este repositório contém minha evolução técnica estruturada em **12 etapas**, com mentoria baseada em IA, focada em **Engenharia de Software com Java**. O objetivo não é apenas dominar a sintaxe, mas aplicar padrões de projeto (Design Patterns), gestão de memória e lógica avançada sob a ótica de sistemas escaláveis e de alta performance.
 
@@ -57,13 +57,13 @@ Para ver os desafios de cada etapa, basta entrar na pasta correspondente. Lá vo
 
 #### **Módulo 2: Controle de Fluxo**
 
-* ** Etapa 4: Estrutura de Decisão**
+* **Etapa 4: Estrutura de Decisão**
     - Uso profissional de `if`, `else if`, `else` e `sitch case`. Aplicação de Cláusulas de Guarda.
 
-* ** Etapa 5: Laços de Repetição**
+* **Etapa 5: Laços de Repetição**
     - Estruturas `while` e `for`. Diferenças entre interações e controle de fluxo em loops. 
 
-* ** Etapa 6: Manipulação de Strings**
+* **Etapa 6: Manipulação de Strings**
     - Imutabilidade, String Pool e performance com `StringBuilder`.
 
 ###  Módulo 3: O Coração da Orientação a Objetos
