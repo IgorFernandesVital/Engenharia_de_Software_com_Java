@@ -1,4 +1,4 @@
-package etapa_1_O_Ecossistema_Java;
+package etapa_1_ecossistema_java;
 /* 
 Código "sujo" gerado por IA
 
