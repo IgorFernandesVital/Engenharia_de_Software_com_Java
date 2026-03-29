@@ -49,7 +49,7 @@ Para ver os desafios de cada etapa, basta entrar na pasta correspondente. Lá vo
 * **[Etapa 1: O Ecossitema Java](./etapa_1_O_Ecossistema_Java/)**
     - JDK vs JRE vs JVM; Compilação via terminal (`javac` e `java`).
 
-* **Etapa 2: Variáveis e Tipos Primitivos**
+* **[Etapa 2: Variáveis e Tipos Primitivos](./etapa_2_variaveis_tipos_primitivos/)**
     - Gestão de memória (Stack); Tipagem; Casting de dados.
 
 * **Etapa 3: Lógica e Operadores**
