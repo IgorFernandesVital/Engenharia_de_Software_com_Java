@@ -46,7 +46,7 @@ Para ver os desafios de cada etapa, basta entrar na pasta correspondente. Lá vo
 
 #### **Módulo 1: Fundamentos e Ecossistema**
 
-* **[Etapa 1: O Ecossitema Java](./etapa_1_O_Ecossistema_Java/)**
+* **[Etapa 1: O Ecossitema Java](./etapa_1_ecossistema_java/)**
     - JDK vs JRE vs JVM; Compilação via terminal (`javac` e `java`).
 
 * **[Etapa 2: Variáveis e Tipos Primitivos](./etapa_2_variaveis_tipos_primitivos/)**
