@@ -8,7 +8,7 @@ Começando pela base do java, entender como a ferramente funciona antes mesmo de
 Criar um simples "Olá, Mundo!"
 * **Conceito Chave:** Gerar o Bytecode utilizando o `javac` e o `java` para chamar a JVM e executar o programa
 
-## ♻️ Refatoração da Semana (`Refatoracao1_GerenciadorUsuario.java`)
+## ♻️ Refatoração (`Refatoracao1_GerenciadorUsuario.java`)
 Deixei a nomeclatura mais clara utilizando nomes legiveis e PascalCase (Obrigatóriamente na classe). Fiz a idententação do código para mostrar hierarquia. 
 
 ## 🎤 Pergunta de Entrevista
