@@ -15,3 +15,15 @@ Neste desafio, desenvolvi um sistema simples de inventário de dados pessoal, on
     - Tratamento de strings e caracteres para dados identificadores.
 
     - Entrada de dados via console, garantindo a integridade da tipagem durante o input.
+
+## ♻️ Refatorações executadas
+
+### 1. Venda do produto (`Refatoracao1_VendaProduto.java`)
+
+Nesta refatoração, apliquei melhorias de legibilidade e precisão:
+
+- **Nomenclatura:** Ajustei os nomes de classes e variáveis para padrões mais semânticos e coesos (PascalCase para classes e camelCase para variáveis).
+
+- **Tipagem Financeira:** Substituí o uso de double por BigDecimal para garantir a precisão exata dos cálculos monetários, evitando erros de arredondamento.
+
+- **Internacionalização (i18n):** Implementei a formatação de saída utilizando Locale e NumberFormat para o padrão brasileiro (R$), garantindo uma exibição profissional dos valores.
