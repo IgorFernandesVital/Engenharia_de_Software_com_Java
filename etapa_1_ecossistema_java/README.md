@@ -15,3 +15,6 @@ Deixei a nomeclatura mais clara utilizando nomes legiveis e PascalCase (Obrigat�
 **P:** Qual é a diferença fundamental entre o arquivo .java e o arquivo .class e quem é responsável por gerar cada um?
 
 **R:** O arquivo `.java` contém o código-fonte legível por humanos. Ele é transformado pelo compilador (`javac`) no arquivo `.class`, que contém **Bytecode**. O Bytecode é independente de plataforma e é executado pela **JVM** (Java Virtual Machine).
+
+## ⏭️ Próxima etapa
+**[Etapa 2: Variáveis e Tipos Primitivos](./etapa_2_variaveis_tipos_primitivos/)**
