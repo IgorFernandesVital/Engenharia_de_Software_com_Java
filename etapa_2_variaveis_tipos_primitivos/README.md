@@ -16,6 +16,21 @@ Neste desafio, desenvolvi um sistema simples de inventário de dados pessoal, on
 
     - Entrada de dados via console, garantindo a integridade da tipagem durante o input.
 
+### 2. Simulador de Estoque (`SimuladorEstoque.java`)
+Este desafio foca na escolha consciente de tipos de dados, equilibrando economia de memória com a precisão necessária para sistemas financeiros.
+
+Conceito Chave: Otimização de Recursos e Tipagem Primitiva.
+
+* **O que foi aplicado:**
+
+    - **Precisão de Ponto Fixo:** Uso de `BigDecimal` para cálculos monetários, evitando erros de arredondamento inerentes aos tipos `float` e `double`.
+
+    - **Eficiência de Memória:** Escolha de tipos primitivos reduzidos (como `short`) para valores com limites conhecidos.
+
+    - **Otimização de Objetos:** Uso do método estático `BigDecimal.valueOf()` em vez do construtor, aproveitando o cache interno da classe para reduzir a alocação de objetos e aliviar a carga do Garbage Collector.
+
+- **Internacionalização:** Formatação de saída utilizando `NumberFormat` com `Locale` específico (PT-BR).
+
 ## ♻️ Refatorações executadas
 
 ### 1. Venda do produto (`Refatoracao1_VendaProduto.java`)
