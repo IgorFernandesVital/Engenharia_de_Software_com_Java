@@ -2,6 +2,12 @@
 
 Nesta fase, explorei os conceitos fundamentais do Java: **tipagem estática e forte** e o **custo de memória das variáveis**. Aprendi a importância da eficiência no uso de recursos, evitando desperdícios de memória.
 
+### Navegação rápida: 
+
+- [Desafios](#️-desafios-executados)
+- [Refatorações](#️-refatorações-executadas)
+- [Pergunta de entrevistas](#-pergunta-de-entrevista)
+
 ## 🛠️ Desafios Executados
 
 ### 1. Dados do colaborador (`DadosColaborador.java`)
@@ -42,3 +48,9 @@ Nesta refatoração, apliquei melhorias de legibilidade e precisão:
 - **Tipagem Financeira:** Substituí o uso de double por BigDecimal para garantir a precisão exata dos cálculos monetários, evitando erros de arredondamento.
 
 - **Internacionalização (i18n):** Implementei a formatação de saída utilizando Locale e NumberFormat para o padrão brasileiro (R$), garantindo uma exibição profissional dos valores.
+
+## 🎤 Pergunta de Entrevista
+
+**P:** Em Java, qual a diferença entre um tipo primitivo (como `int`) e um objeto (como `String`) em termos de como eles são armazenados e tratados pela linguagem?
+
+**R:** Primitivos como o `int` são valores puros armazenados na **Stack** (uma área de memória muito rápida). Eles ocupam pouco espaço e são simples. Já a `String` é um **Objeto** (uma classe). Ela não guarda o valor diretamente, mas sim uma referência (um endereço) para onde o texto está na memória **Heap**. Além disso, Objetos possuem métodos (funções) que podemos chamar (ex: `nome.toUpperCase()`), enquanto primitivos não fazem nada além de guardar o número.
