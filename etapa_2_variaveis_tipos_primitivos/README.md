@@ -29,7 +29,7 @@ Conceito Chave: Otimização de Recursos e Tipagem Primitiva.
 
     - **Otimização de Objetos:** Uso do método estático `BigDecimal.valueOf()` em vez do construtor, aproveitando o cache interno da classe para reduzir a alocação de objetos e aliviar a carga do Garbage Collector.
 
-- **Internacionalização:** Formatação de saída utilizando `NumberFormat` com `Locale` específico (PT-BR).
+    - **Internacionalização:** Formatação de saída utilizando `NumberFormat` com `Locale` específico (PT-BR).
 
 ## ♻️ Refatorações executadas
 
